@@ -1,0 +1,30 @@
+<br>: xuống dòng
+< width> độ dài của ảnh
+<ol> xuống dòng có số thứ tự
+<ul> xuống dòng không có số thứ tự
+<li> gạch đầu dòng
+<table border=1>
+<tr> dòng
+<td> ô 
+để tr trước rồi td, tức là trong 1 dòng có mấy ô
+<td with =	 % > thay đổi dộ dài màn hình
+
+
+
+
+
+
+<br><br>
+<tr>
+<td width=15%><img src="abc_files/qc2.jpg" width=100%><td>
+<td width = 70%>
+Các mặt hàng của cửa hàng
+<
+GỒm 1 trang chính, môi trang chính gồm 3 trang con, mõi trang con gồm 3 trang cháu
+tổng 13 trang, mỗi trang có 1 CSS, có tối thiểu 2 trang có trò chơi ( copy game nhưng phải cá nhân hóa-thêm tên, thêm logo)
+DINASOu game chrome
+<img scr="./images.jpg" width="370" height="250">
+<img scr="quần áo nam.jpg" width="370" height="250">
+<img src="tải xuống (1).png" width="100" height="100" align="left">
+<img src="z5054850505938_fddc4946cfa3a8be76ae47c1132a5047.jpg" width="150" height="600" align="left">
+<img src="z5054851503842_317fc5e800391124af00b2137cde433f.jpg" width="150" height="600" align="right">

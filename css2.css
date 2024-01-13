@@ -1,0 +1,16 @@
+.class{
+    display:flex;
+    justify-content: space-between;
+}
+ 
+.class .cot1{
+    width:30%;
+}
+ 
+.class .cot2{
+    width:30%;
+}
+ 
+.class .cot3{
+    width:30%;
+}
